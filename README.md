@@ -8,25 +8,38 @@
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
 
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
+
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
 ![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
 ![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
 ![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![作业20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
+![作业40%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-40%25-wheat)
+![期末考试40%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-40%25-wheat)
 
 
-## 授课教师
+## 计算机体系结构
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+本课程为方向限选课（考查课），占 3 学分。
 
-## 关于考试
+2023 年分数构成 = 20%平时测验 + 40%实验 + 40%期末考试
 
-## 学习建议
+### 关于教师
+
+- ssh：年轻有为的教授，有责任心。
+- wq: 年轻教授。平时小测仅作为考勤依据，答题结果无需关注。
+
+### 关于作业
+
+没有作业，但是有课堂小测，需要限时扫码完成。
+
+### 关于实验
+
+全部是验证性实验，跟着指导书一步步做就行，除了环境配置以外没有什么难度。
+
+### 关于考试
+
+考一些基本概念和计算，听了老师的期末串讲就能过。
