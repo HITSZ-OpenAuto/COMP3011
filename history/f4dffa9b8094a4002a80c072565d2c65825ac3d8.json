@@ -1,0 +1,97 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814759,
+    "hash": "4698abeb1a1550c58a7814e4d7d14e22ca47767d"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754198278,
+    "hash": "d0b8492e77873c0bcb8123b5fc75ab0232917239"
+  },
+  "README.md": {
+    "size": 820,
+    "time": 1791961530,
+    "hash": "f4dffa9b8094a4002a80c072565d2c65825ac3d8"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754198278,
+    "hash": "d0b8492e77873c0bcb8123b5fc75ab0232917239"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754198278,
+    "hash": "d0b8492e77873c0bcb8123b5fc75ab0232917239"
+  },
+  "exams/2023级-计算机体系结构-回忆版.pdf": {
+    "size": 490027,
+    "time": 1755965851,
+    "hash": "2a77b6bf3600f9ac29ef02be6cd7dfe8fad879fa"
+  },
+  "exams/readme.md": {
+    "size": 165,
+    "time": 1755965851,
+    "hash": "2a77b6bf3600f9ac29ef02be6cd7dfe8fad879fa"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754198278,
+    "hash": "d0b8492e77873c0bcb8123b5fc75ab0232917239"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754198278,
+    "hash": "d0b8492e77873c0bcb8123b5fc75ab0232917239"
+  },
+  "readme.toml": {
+    "size": 829,
+    "time": 1773428131,
+    "hash": "a37fa8a89df907d2e33fba36e4d306a3bdcb4d4e"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754198278,
+    "hash": "d0b8492e77873c0bcb8123b5fc75ab0232917239"
+  },
+  "slides/2023_ssh/01-计算机体系结构绪论.pdf": {
+    "size": 12720131,
+    "time": 1755965851,
+    "hash": "2a77b6bf3600f9ac29ef02be6cd7dfe8fad879fa"
+  },
+  "slides/2023_ssh/02-现代处理器体系结构.pdf": {
+    "size": 10146346,
+    "time": 1755965851,
+    "hash": "2a77b6bf3600f9ac29ef02be6cd7dfe8fad879fa"
+  },
+  "slides/2023_ssh/03-AI处理器体系结构3.1.pdf": {
+    "size": 6299750,
+    "time": 1755965851,
+    "hash": "2a77b6bf3600f9ac29ef02be6cd7dfe8fad879fa"
+  },
+  "slides/2023_ssh/03-AI处理器体系结构3.2.pdf": {
+    "size": 6701314,
+    "time": 1755966022,
+    "hash": "7d5703e53950b0a114f7dc7fd0f692118de0d950"
+  },
+  "slides/2023_ssh/03-AI处理器体系结构3.3.pdf": {
+    "size": 5612604,
+    "time": 1755966022,
+    "hash": "7d5703e53950b0a114f7dc7fd0f692118de0d950"
+  },
+  "slides/2023_ssh/04-自动驾驶汽车体系结构4.1.pdf": {
+    "size": 20927779,
+    "time": 1755966022,
+    "hash": "7d5703e53950b0a114f7dc7fd0f692118de0d950"
+  },
+  "slides/2023_ssh/04-自动驾驶汽车体系结构4.2.pdf": {
+    "size": 11562760,
+    "time": 1755966072,
+    "hash": "6c5ecd9d7109a169e3effd09646742d3e6c915cc"
+  },
+  "slides/2023_ssh/04-自动驾驶汽车体系结构4.3.pdf": {
+    "size": 11377832,
+    "time": 1755966072,
+    "hash": "6c5ecd9d7109a169e3effd09646742d3e6c915cc"
+  }
+}
